@@ -1,0 +1,22 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "cypress-automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexbradford3/cypress-automation.git"
+  },
+  "author": "Alex Bradford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexbradford3/cypress-automation/issues"
+  },
+  "homepage": "https://github.com/alexbradford3/cypress-automation#readme",
+  "devDependencies": {
+    "cypress": "^8.7.0"
+  }
+}
